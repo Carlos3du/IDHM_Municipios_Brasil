@@ -1,2 +1,3 @@
 # IDHM_Municipios_Brasil
-IDHM dos Municípios Brasileiros
+OBS: Os gráficos não estão disponíveis para visualização pelo github
+
